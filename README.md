@@ -22,7 +22,6 @@ This project demonstrates real-time object detection using the YOLOv8 model. The
     git clone https://github.com/jorgef17/Real-Time-Object-Detection.git
     cd Real-Time-Object-Detection
     pip install -r requirements.txt
-
     ```
 
 2. **Run the script to start object detection:**
@@ -34,6 +33,7 @@ This project demonstrates real-time object detection using the YOLOv8 model. The
 3. **Press the space bar** to save a screenshot.
 
 4. **Press "q"** to exit the program.
+
 
 ## Files
 

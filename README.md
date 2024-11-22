@@ -12,7 +12,6 @@ This project demonstrates real-time object detection using the YOLOv8 model. The
 - Python 3.7+
 - Install required libraries using the following command:
 
-pip install -r requirements.txt
 
 
 ## Usage
@@ -22,6 +21,8 @@ pip install -r requirements.txt
     ```
     git clone https://github.com/jorgef17/Real-Time-Object-Detection.git
     cd Real-Time-Object-Detection
+    pip install -r requirements.txt
+
     ```
 
 2. **Run the script to start object detection:**
